@@ -1,0 +1,25 @@
+# Graftcode Gateway runtime artifacts
+Binaries/
+Binaries.zip
+GMA/
+GMA.zip
+GVFE/
+GVFE.zip
+uploads/
+_Javonet*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Node.js
+node_modules/
+.next/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.local
